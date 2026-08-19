@@ -3,6 +3,6 @@ This repository supports the paper "Actuation Comparison of Microrobots Using Si
 Repository Structure
 
 1. **Simulations** – Source files for simulating the magnetic field generation, gradient velocity and navigation control.
-2. **Experimental Setup** – Wiring diagram, manuals for the electronic components, Arduino codes, Python codes, list of setup parts.
+2. **Experimental Setup** – Wiring diagram, manuals for the electronic components, Arduino codes, Python codes, list of setup parts and overview of control procedure.
 3. **Experimental Calculations** - Python codes for extracting and processing data.
-4. **3D Prints** - Files containing the 3D prints used for the system setup.
+4. **3D Prints** - Files containing the 3D prints used for the system setup in the formats 3mf and f3d.
